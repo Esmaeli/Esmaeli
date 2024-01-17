@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Esmaeli
-- 👀 I’m interested in web and desktop applications!.
-- 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me = You can't reach me :D
+# 👨‍💻 About Me
+.NET Developer | C# Aficionado | Database Wizard | Open Source Enthusiast
 
-<!---
-Esmaeli/Esmaeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am a passionate and skilled .NET Developer.
+
+Extends to developing desktop, mobile, and web applications.
+
+I bring a strong foundation in managing and optimizing data.
+
+# 🔧 Technologies & Tools
+- .NET | C#
+- Desktop, Mobile, and Web Development
+- Database Management
+- Open Source Contribution
+- Digital Marketing and SEO
+
+🚀👨‍💻✨🚀👨‍💻✨🚀👨‍💻✨🚀👨‍💻✨🚀👨‍💻✨🚀
